@@ -2,12 +2,24 @@
 <h3 align="left">About Me:</h3>
 
 - ❤️ Pronouns: she/her/hers
+- 📍 Location: Los Angeles, CA
 - 🎓 Education: B.S. Computer Engineering @ Cal Poly SLO (2022 - 2026)
 - 💻 Interests: Digital Design, RTL Design, FPGA Programming, Embedded Systems  
-- 🎸 Hobbies: Electric guitar, cooking, reading
-
-<h3 align="left">Resume:</h3>
+- 🎸 Hobbies: Electric Guitar, Cooking, Reading
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Contact Information:</h3>
+
+- ✉️ jhwen426@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hao-wen-650782206/)
+
+
+<h3 align="left">Skills:</h3>
+
+- Languages: C, C++, Python, Java, SystemVerilog, ASM
+- Software: AMD Vivado, MATLAB, LTSpice, KiCad, STM32 Cube IDE, Visual Studio, VS Code, Unix
+- Hardware: Analog Circuits, FPGA Boards, STM32 Microcontrollers, Breadboard Prototyping, Oscilloscopes, Multimeters, Function Generators, Soldering
+- Protocols: TCP, UDP, UART, I2C, SPI
+
+
+<h3 align="center"><a href="https://github.com/ehvieee/ehvieee/blob/main/resume.pdf">📄 Click for Resume 📄</a></h3>
